@@ -5,7 +5,7 @@ We will continue to update this list with newest resources. If you found any mis
 
 ## Survey paper
 
-[**Transformers in Time Series: A Survey**](https://arxiv.org/pdf/2202.07125.pdf). 
+[**Transformers in Time Series: A Survey**](https://arxiv.org/pdf/2202.07125.pdf)
 
 [Qingsong Wen](https://sites.google.com/site/qingsongwen8/), Tian Zhou, Chaoli Zhang, Weiqi Chen, Ziqing Ma, [Junchi Yan](https://thinklab.sjtu.edu.cn/) and [Liang Sun](https://scholar.google.com/citations?user=8JbrsgUAAAAJ&hl=en).
 
@@ -24,8 +24,6 @@ We will continue to update this list with newest resources. If you found any mis
 
 
 ## Applications of Time Series Transformers
-
-
 
 ### Transformers in Forecasting
 #### Time Series Forecasting
@@ -52,11 +50,24 @@ We will continue to update this list with newest resources. If you found any mis
 * Transformer Embeddings of Irregularly Spaced Events and Their Participants, in *ICLR* 2022. [\[paper\]](https://openreview.net/forum?id=Rty5g9imm7H) [\[official code\]](https://github.com/yangalan123/anhp-andtt)
 
 
+### Transformers in Anomaly Detection
+* Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy, in *ICLR* 2022. [\[paper\]](https://arxiv.org/abs/2110.02642) [\[code\]](https://github.com/spencerbraun/anomaly_transformer_pytorch)
+* TranAD: Deep Transformer Networks for Anomaly Detection in Multivariate Time Series Data, in *VLDB* 2022. [\[paper\]](https://arxiv.org/abs/2201.07284) [\[official code\]](https://github.com/imperial-qore/tranad)
+* Learning graph structures with transformer for multivariate time series anomaly detection in IoT, in *IEEE Internet of Things Journal* 2021. [\[paper\]](https://arxiv.org/abs/2104.03466) [\[official code\]](https://github.com/ZEKAICHEN/GTA)
+* Spacecraft Anomaly Detection via Transformer Reconstruction Error, in *ICASSE* 2019. [\[paper\]](http://www.utias.utoronto.ca/wp-content/uploads/2019/07/88-Spacecraft-anomaly-detection-via-transformer-reconstruction-error.pdf)
+* Unsupervised Anomaly Detection in Multivariate Time Series through Transformer-based Variational Autoencoder, in *CCDC* 2021. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9601669)
+* Variational Transformer-based anomaly detection approach for multivariate time series, in *Measurement* 2022. [\[paper\]](https://www.sciencedirect.com/science/article/abs/pii/S0263224122000914)
+
+[\[paper\]]() [\[code\]]()
+### Transformers in Classification
+* A transformer-based framework for multivariate time series representation learning, in *KDD* 2021. [\[paper\]](https://arxiv.org/abs/2010.02803) [\[official code\]](https://github.com/gzerveas/mvts_transformer)
+* Voice2series: Reprogramming acoustic models for time series classification, in *ICML* 2021. [\[paper\]](https://arxiv.org/abs/2106.09296) [\[official code\]](https://github.com/huckiyang/Voice2Series-Reprogramming)
+* Gated Transformer Networks for Multivariate Time Series Classification, in *arXiv* 2021. [\[paper\]](https://arxiv.org/abs/2103.14438) [\[official code\]](https://github.com/ZZUFaceBookDL/GTN)
+* Self-attention for raw optical satellite time series classification, in *ISPRS Journal of Photogrammetry and Remote Sensing* 2020. [\[paper\]](https://arxiv.org/abs/1910.10536) [\[official code\]](https://github.com/marccoru/crop-type-mapping)
+* Self-supervised pretraining of transformers for satellite image time series classification, in *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* 2020. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9252123)
 
 
 
-[\[paper\]]() 
-[\[code\]]()
 ## Time Series Related Survey
 * Time series data augmentation for deep learning: a survey, in *IJCAI* 2021. [\[paper\]](https://arxiv.org/abs/2002.12478)
 * Neural temporal point processes: a review, in *IJCAI* 2021. [\[paper\]](https://arxiv.org/abs/2104.03528v5)
@@ -64,7 +75,8 @@ We will continue to update this list with newest resources. If you found any mis
 * Deep learning for time series forecasting: a survey, in *Big Data* 2021. [\[paper\]](https://www.liebertpub.com/doi/abs/10.1089/big.2020.0159)
 * Neural forecasting: Introduction and literature overview, in *arXiv* 2020. [\[paper\]](https://arxiv.org/abs/2004.10240) 
 * Deep learning for anomaly detection in time-series data: review, analysis, and guidelines, in *Access* 2021. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9523565) 
-* A review on outlier/anomaly detection in time series data, in *ACM Computing Surveys* 2021. [\[paper\]](https://arxiv.org/abs/2002.04236) 
+* A review on outlier/anomaly detection in time series data, in *ACM Computing Surveys* 2021. [\[paper\]](https://arxiv.org/abs/2002.04236)
+* A unifying review of deep and shallow anomaly detection, in *Proceedings of the IEEE* 2021. [\[paper\]](http://128.84.4.34/abs/2009.11732)
 * Deep learning for time series classification: a review, in *Data Mining and Knowledge Discovery* 2019. [\[paper\]](https://link.springer.com/article/10.1007/s10618-019-00619-1?sap-outbound-id=11FC28E054C1A9EB6F54F987D4B526A6EE3495FD&mkt-key=005056A5C6311EE999A3A1E864CDA986)
 
 
