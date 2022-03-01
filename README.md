@@ -1,4 +1,11 @@
-# Transformers in Time Series   
+# Transformers in Time Series  
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
+![Stars](https://img.shields.io/github/stars/qingsongedu/time-series-transformers-review)
+<!-- ![Forks](https://img.shields.io/github/forks/qingsongedu/time-series-transformers-review) -->
+
+
 A professionally curated list of awesome resources (paper, code, data, etc.) on **Transformers in Time Series**, which is first work to comprehensively and systematically summarize the recent advances of Transformers for modeling time series data to the best of our knowledge.
 
 We will continue to update this list with newest resources. If you found any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.
