@@ -21,9 +21,11 @@ We will continue to update this list with newest resources. If you found any mis
 ```
 
 ## Taxonomy of Transformers for time series modeling
+<!-- ![xxx](TS_Xformer_V2.jpg) -->
+<img src="TS_Xformer_V2.jpg" width=700 align=middle> <br />
 
 
-## Applications of Time Series Transformers
+## Application Domains of Time Series Transformers
 
 ### Transformers in Forecasting
 #### Time Series Forecasting
@@ -58,15 +60,12 @@ We will continue to update this list with newest resources. If you found any mis
 * Unsupervised Anomaly Detection in Multivariate Time Series through Transformer-based Variational Autoencoder, in *CCDC* 2021. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9601669)
 * Variational Transformer-based anomaly detection approach for multivariate time series, in *Measurement* 2022. [\[paper\]](https://www.sciencedirect.com/science/article/abs/pii/S0263224122000914)
 
-[\[paper\]]() [\[code\]]()
 ### Transformers in Classification
 * A transformer-based framework for multivariate time series representation learning, in *KDD* 2021. [\[paper\]](https://arxiv.org/abs/2010.02803) [\[official code\]](https://github.com/gzerveas/mvts_transformer)
 * Voice2series: Reprogramming acoustic models for time series classification, in *ICML* 2021. [\[paper\]](https://arxiv.org/abs/2106.09296) [\[official code\]](https://github.com/huckiyang/Voice2Series-Reprogramming)
 * Gated Transformer Networks for Multivariate Time Series Classification, in *arXiv* 2021. [\[paper\]](https://arxiv.org/abs/2103.14438) [\[official code\]](https://github.com/ZZUFaceBookDL/GTN)
 * Self-attention for raw optical satellite time series classification, in *ISPRS Journal of Photogrammetry and Remote Sensing* 2020. [\[paper\]](https://arxiv.org/abs/1910.10536) [\[official code\]](https://github.com/marccoru/crop-type-mapping)
 * Self-supervised pretraining of transformers for satellite image time series classification, in *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* 2020. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9252123)
-
-
 
 ## Time Series Related Survey
 * Time series data augmentation for deep learning: a survey, in *IJCAI* 2021. [\[paper\]](https://arxiv.org/abs/2002.12478)
@@ -79,8 +78,7 @@ We will continue to update this list with newest resources. If you found any mis
 * A unifying review of deep and shallow anomaly detection, in *Proceedings of the IEEE* 2021. [\[paper\]](http://128.84.4.34/abs/2009.11732)
 * Deep learning for time series classification: a review, in *Data Mining and Knowledge Discovery* 2019. [\[paper\]](https://link.springer.com/article/10.1007/s10618-019-00619-1?sap-outbound-id=11FC28E054C1A9EB6F54F987D4B526A6EE3495FD&mkt-key=005056A5C6311EE999A3A1E864CDA986)
 
-
-[\[paper\]]()
+ 
 ## Transformer Survey in Other Disciplines
 * A survey on visual transformer, in *IEEE TPAMI* 2022. [\[paper\]](https://arxiv.org/abs/2012.12556)
 * Transformers in vision: A survey, in *ACM Computing Surveys* 2021. [\[paper\]](https://arxiv.org/abs/2101.01169)
