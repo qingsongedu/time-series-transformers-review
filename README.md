@@ -3,6 +3,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
 ![Stars](https://img.shields.io/github/stars/qingsongedu/time-series-transformers-review)
+[![Visits Badge](https://badges.pufler.dev/visits/qingsongedu/time-series-transformers-review)](https://badges.pufler.dev/visits/qingsongedu/time-series-transformers-review)
 <!-- ![Forks](https://img.shields.io/github/forks/qingsongedu/time-series-transformers-review) -->
 
 
