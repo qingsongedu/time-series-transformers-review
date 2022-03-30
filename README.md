@@ -47,6 +47,7 @@ We will continue to update this list with newest resources. If you found any mis
 * From Known to Unknown: Knowledge-guided Transformer for Time-Series Sales Forecasting in Alibaba, in *arXiv* 2021. [\[paper\]](https://arxiv.org/abs/2109.08381)
 * Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting, in *ICLR* 2022. [\[paper\]](https://openreview.net/forum?id=0EXmFzUn5I)
 * FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting, in *arXiv* 2022. [\[paper\]](https://arxiv.org/abs/2201.12740)
+* TCCT: Tightly-coupled convolutional transformer on time series forecasting, in *Neurocomputing* 2022. [\[paper\]](https://www.sciencedirect.com/science/article/pii/S0925231222000571)
 
 
  #### Spatio-Temporal Forecasting
@@ -74,6 +75,7 @@ We will continue to update this list with newest resources. If you found any mis
 * Gated Transformer Networks for Multivariate Time Series Classification, in *arXiv* 2021. [\[paper\]](https://arxiv.org/abs/2103.14438) [\[official code\]](https://github.com/ZZUFaceBookDL/GTN)
 * Self-attention for raw optical satellite time series classification, in *ISPRS Journal of Photogrammetry and Remote Sensing* 2020. [\[paper\]](https://arxiv.org/abs/1910.10536) [\[official code\]](https://github.com/marccoru/crop-type-mapping)
 * Self-supervised pretraining of transformers for satellite image time series classification, in *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* 2020. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9252123)
+* Self-Supervised Transformer for Sparse and Irregularly Sampled Multivariate Clinical Time-Series, in *ACM TKDD* 2022. [\[paper\]](https://people.cs.vt.edu/~reddy/papers/TKDD22a.pdf)
 
 ## Time Series Related Survey
 * Time series data augmentation for deep learning: a survey, in *IJCAI* 2021. [\[paper\]](https://arxiv.org/abs/2002.12478)
