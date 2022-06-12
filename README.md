@@ -13,7 +13,7 @@ We will continue to update this list with newest resources. If you found any mis
 
 For general **AI for Time Series (AI4TS)** Papers, Tutorials, and Surveys at the **Top AI Conferences and Journals**, please check [This Repo](https://github.com/qingsongedu/awesome-AI-for-time-series-papers). 
 
-For more **Tutorials and Surveys in other AI areas (DL, ML, DM, CV, NLP, Speech, etc.)** at the **Top AI Conferences and Journals**, please check [This Repo](https://github.com/qingsongedu/awesome-AI-tutorials-surveys). 
+For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML, DM, CV, NLP, Speech, etc.)** at the **Top AI Conferences and Journals**, please check [This Repo](https://github.com/qingsongedu/awesome-AI-tutorials-surveys). 
 
 
 
