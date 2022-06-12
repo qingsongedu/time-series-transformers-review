@@ -11,6 +11,13 @@ A professionally curated list of awesome resources (paper, code, data, etc.) on 
 
 We will continue to update this list with newest resources. If you found any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.
 
+For general **AI for Time Series (AI4TS)** Papers, Tutorials, and Surveys at the **Top AI Conferences and Journals**, please check [This Repo](https://github.com/qingsongedu/awesome-AI-for-time-series-papers). 
+
+For more **Tutorials and Surveys in other AI areas (DL, ML, DM, CV, NLP, Speech, etc.)** at the **Top AI Conferences and Journals**, please check [This Repo](https://github.com/qingsongedu/awesome-AI-tutorials-surveys). 
+
+
+
+
 ## Survey paper
 
 [**Transformers in Time Series: A Survey**](https://arxiv.org/pdf/2202.07125.pdf)
