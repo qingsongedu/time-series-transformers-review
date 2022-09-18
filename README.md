@@ -44,6 +44,9 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 ### Transformers in Forecasting
 #### Time Series Forecasting
+* Non-stationary Transformers: Rethinking the Stationarity in Time Series Forecasting, in *NeurIPS* 2022. [\[paper\]](https://arxiv.org/abs/2205.14415) 
+* Earthformer: Exploring Space-Time Transformers for Earth System Forecasting, in *NeurIPS* 2022. [\[paper\]](https://arxiv.org/abs/2207.05833) 
+* Learning to Rotate: Quaternion Transformer for Complicated Periodical Time Series Forecasting”, in *KDD* 2022. [\[paper\]](https://dl.acm.org/doi/10.1145/3534678.3539234) 
 * FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting, in *ICML* 2022. [\[paper\]](https://arxiv.org/abs/2201.12740) [\[official code\]](https://github.com/MAZiqing/FEDformer)
 * TACTiS: Transformer-Attentional Copulas for Time Series, in *ICML* 2022. [\[paper\]](https://arxiv.org/abs/2202.03528) 
 * Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting, in *ICLR* 2022. [\[paper\]](https://openreview.net/forum?id=0EXmFzUn5I) [\[official code\]](https://github.com/alipay/Pyraformer) 
@@ -57,7 +60,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 * From Known to Unknown: Knowledge-guided Transformer for Time-Series Sales Forecasting in Alibaba, in *arXiv* 2021. [\[paper\]](https://arxiv.org/abs/2109.08381)
 * TCCT: Tightly-coupled convolutional transformer on time series forecasting, in *Neurocomputing* 2022. [\[paper\]](https://www.sciencedirect.com/science/article/pii/S0925231222000571)
 * Triformer: Triangular, Variable-Specific Attentions for Long Sequence Multivariate Time Series Forecasting, in *IJCAI* 2022. [\[paper\]](https://arxiv.org/abs/2204.13767)
-* Learning to Rotate: Quaternion Transformer for Complicated Periodical Time Series Forecasting”, in *KDD* 2022.
+
 
  #### Spatio-Temporal Forecasting
 * Spatio-temporal graph transformer networks for pedestrian trajectory prediction, in *ECCV* 2020. [\[paper\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1636_ECCV_2020_paper.php) [\[official code\]](https://github.com/Majiker/STAR)
