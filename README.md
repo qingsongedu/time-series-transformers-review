@@ -89,6 +89,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 * Variational Transformer-based anomaly detection approach for multivariate time series, in *Measurement* 2022. [\[paper\]](https://www.sciencedirect.com/science/article/abs/pii/S0263224122000914)
 
 ### Transformers in Classification
+* TARNet : Task-Aware Reconstruction for Time-Series Transformer, in *KDD* 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539329) [\[official code\]](https://github.com/ranakroychowdhury/TARNet)
 * A transformer-based framework for multivariate time series representation learning, in *KDD* 2021. [\[paper\]](https://arxiv.org/abs/2010.02803) [\[official code\]](https://github.com/gzerveas/mvts_transformer)
 * Voice2series: Reprogramming acoustic models for time series classification, in *ICML* 2021. [\[paper\]](https://arxiv.org/abs/2106.09296) [\[official code\]](https://github.com/huckiyang/Voice2Series-Reprogramming)
 * Gated Transformer Networks for Multivariate Time Series Classification, in *arXiv* 2021. [\[paper\]](https://arxiv.org/abs/2103.14438) [\[official code\]](https://github.com/ZZUFaceBookDL/GTN)
