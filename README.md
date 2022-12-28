@@ -67,7 +67,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 
  #### Spatio-Temporal Forecasting
-* AirFormer: Predicting Nationwide Air Quality in China with Transformers, in *AAAI* 2023. [\[paper\]]()
+* AirFormer: Predicting Nationwide Air Quality in China with Transformers, in *AAAI* 2023. [\[paper\]](https://arxiv.org/abs/2211.15979) [\[official code\]](https://github.com/yoshall/AirFormer)
 * Bidirectional Spatial-Temporal Adaptive Transformer for Urban Traffic Flow Forecasting, in *TNNLS* 2022. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9810964)
 * Spatio-temporal graph transformer networks for pedestrian trajectory prediction, in *ECCV* 2020. [\[paper\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1636_ECCV_2020_paper.php) [\[official code\]](https://github.com/Majiker/STAR)
 * Spatial-temporal transformer networks for traffic flow forecasting, in *arXiv* 2020. [\[paper\]](https://arxiv.org/abs/2001.02908) [\[official code\]](https://github.com/xumingxingsjtu/STTN)
