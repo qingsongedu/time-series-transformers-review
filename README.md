@@ -44,9 +44,9 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 ### Transformers in Forecasting
 #### Time Series Forecasting
-* Crossformer: Transformer Utilizing Cross-Dimension Dependency for Multivariate Time Series Forecasting, under review in *ICLR* 2023. [\[paper\]](https://openreview.net/forum?id=vSVLM2j9eie)
-* Scaleformer: Iterative Multi-scale Refining Transformers for Time Series Forecasting, under review in *ICLR* 2023. [\[paper\]](https://openreview.net/forum?id=sCrnllCtjoE)
-* A Time Series is Worth 64 Words: Long-term Forecasting with Transformers, under review in *ICLR* 2023. [\[paper\]](https://openreview.net/forum?id=Jbdc0vTOcol)
+* Crossformer: Transformer Utilizing Cross-Dimension Dependency for Multivariate Time Series Forecasting, in *ICLR* 2023. [\[paper\]](https://openreview.net/forum?id=vSVLM2j9eie)
+* Scaleformer: Iterative Multi-scale Refining Transformers for Time Series Forecasting, in *ICLR* 2023. [\[paper\]](https://openreview.net/forum?id=sCrnllCtjoE)
+* A Time Series is Worth 64 Words: Long-term Forecasting with Transformers, in *ICLR* 2023. [\[paper\]](https://openreview.net/forum?id=Jbdc0vTOcol)
 * Non-stationary Transformers: Rethinking the Stationarity in Time Series Forecasting, in *NeurIPS* 2022. [\[paper\]](https://arxiv.org/abs/2205.14415) 
 * Learning to Rotate: Quaternion Transformer for Complicated Periodical Time Series Forecasting”, in *KDD* 2022. [\[paper\]](https://dl.acm.org/doi/10.1145/3534678.3539234) 
 * FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting, in *ICML* 2022. [\[paper\]](https://arxiv.org/abs/2201.12740) [\[official code\]](https://github.com/MAZiqing/FEDformer)
