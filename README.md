@@ -20,7 +20,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 ## Survey paper
 
-[**Transformers in Time Series: A Survey**](https://arxiv.org/abs/2202.07125)
+[**Transformers in Time Series: A Survey**](https://arxiv.org/abs/2202.07125) (IJCAI'23 Survey Track)
 
 [Qingsong Wen](https://sites.google.com/site/qingsongwen8/), Tian Zhou, Chaoli Zhang, Weiqi Chen, Ziqing Ma, [Junchi Yan](https://thinklab.sjtu.edu.cn/) and [Liang Sun](https://scholar.google.com/citations?user=8JbrsgUAAAAJ&hl=en).
 
