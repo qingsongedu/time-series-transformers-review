@@ -44,6 +44,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 ### Transformers in Forecasting
 #### Time Series Forecasting
+* Make Transformer Great Again for Time Series Forecasting: Channel Aligned Robust Dual Transformer, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2305.12095)
 * A Time Series is Worth 64 Words: Long-term Forecasting with Transformers, in *ICLR* 2023. [\[paper\]](https://openreview.net/forum?id=Jbdc0vTOcol) [\[code\]](https://github.com/yuqinie98/PatchTST)
 * Crossformer: Transformer Utilizing Cross-Dimension Dependency for Multivariate Time Series Forecasting, in *ICLR* 2023. [\[paper\]](https://openreview.net/forum?id=vSVLM2j9eie)
 * Scaleformer: Iterative Multi-scale Refining Transformers for Time Series Forecasting, in *ICLR* 2023. [\[paper\]](https://openreview.net/forum?id=sCrnllCtjoE)
