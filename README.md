@@ -20,18 +20,18 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 ## Survey paper
 
-[**Transformers in Time Series: A Survey**](https://arxiv.org/pdf/2202.07125.pdf)
+[**Transformers in Time Series: A Survey**](https://arxiv.org/abs/2202.07125)
 
 [Qingsong Wen](https://sites.google.com/site/qingsongwen8/), Tian Zhou, Chaoli Zhang, Weiqi Chen, Ziqing Ma, [Junchi Yan](https://thinklab.sjtu.edu.cn/) and [Liang Sun](https://scholar.google.com/citations?user=8JbrsgUAAAAJ&hl=en).
 
 #### If you find this repository helpful for your work, please kindly cite our survey paper.
 
 ```bibtex
-@article{wen2022tstransformers,
-  title={Transformers in Time Series: A Survey},
+@inproceedings{wen2023transformers,
+  title={Transformers in time series: A survey},
   author={Wen, Qingsong and Zhou, Tian and Zhang, Chaoli and Chen, Weiqi and Ma, Ziqing and Yan, Junchi and Sun, Liang},
-  journal={arXiv preprint arXiv:2202.07125},
-  year={2022}
+  booktitle={International Joint Conference on Artificial Intelligence(IJCAI)},
+  year={2023}
 }
 ```
 
