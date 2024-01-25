@@ -44,7 +44,8 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 ### Transformers in Forecasting
 #### Time Series Forecasting
-* Make Transformer Great Again for Time Series Forecasting: Channel Aligned Robust Dual Transformer, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2305.12095)
+* CARD: Channel Aligned Robust Blend Transformer for Time Series Forecasting, in *ICLR* 2024. [\[paper\]](https://openreview.net/forum?id=MJksrOhurE)
+* Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting, in *ICLR* 2024. [\[paper\]](https://openreview.net/forum?id=lJkOCMP2aW)
 * A Time Series is Worth 64 Words: Long-term Forecasting with Transformers, in *ICLR* 2023. [\[paper\]](https://openreview.net/forum?id=Jbdc0vTOcol) [\[code\]](https://github.com/yuqinie98/PatchTST)
 * Crossformer: Transformer Utilizing Cross-Dimension Dependency for Multivariate Time Series Forecasting, in *ICLR* 2023. [\[paper\]](https://openreview.net/forum?id=vSVLM2j9eie)
 * Scaleformer: Iterative Multi-scale Refining Transformers for Time Series Forecasting, in *ICLR* 2023. [\[paper\]](https://openreview.net/forum?id=sCrnllCtjoE)
@@ -74,7 +75,9 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 * Spatial-temporal transformer networks for traffic flow forecasting, in *arXiv* 2020. [\[paper\]](https://arxiv.org/abs/2001.02908) [\[official code\]](https://github.com/xumingxingsjtu/STTN)
 * Traffic transformer: Capturing the continuity and periodicity of time series for traffic forecasting, in *Transactions in GIS* 2022. [\[paper\]](https://coolgiserz.github.io/publication/traffic-transformer-capturing-the-continuity-and-periodicity-of-time-series-for-traffic-forecasting/traffic-transformer-capturing-the-continuity-and-periodicity-of-time-series-for-traffic-forecasting.pdf)
 
- #### Event Forecasting
+ #### Event Irregular Time Series Modeling
+* Time Series as Images: Vision Transformer for Irregularly Sampled Time Series，in *NeurIPS* 2023. [\[paper\]](https://openreview.net/forum?id=ZmeAoWQqe0)
+* ContiFormer: Continuous-Time Transformer for Irregular Time Series Modeling，in *NeurIPS* 2023. [\[paper\]](https://openreview.net/forum?id=YJDz4F2AZu)
 * HYPRO: A Hybridly Normalized Probabilistic Model for Long-Horizon Prediction of Event Sequences，in *NeurIPS* 2022. [\[paper\]](https://arxiv.org/abs/2210.01753) [\[official code\]](https://github.com/ant-research/hypro_tpp) 
 * Transformer Embeddings of Irregularly Spaced Events and Their Participants, in *ICLR* 2022. [\[paper\]](https://openreview.net/forum?id=Rty5g9imm7H) [\[official code\]](https://github.com/yangalan123/anhp-andtt)
 * Self-attentive Hawkes process, in *ICML* 2020. [\[paper\]](http://proceedings.mlr.press/v119/zhang20q.html) [\[official code\]](https://github.com/QiangAIResearcher/sahp_repo)
@@ -83,6 +86,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 
 ### Transformers in Anomaly Detection
+* MEMTO: Memory-guided Transformer for Multivariate Time Series Anomaly Detection，in *NeurIPS* 2023. [\[paper\]](https://openreview.net/forum?id=UFW67uduJd)
 * CAT: Beyond Efficient Transformer for Content-Aware Anomaly Detection in Event Sequences, in *KDD* 2022. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3534678.3539155) [\[official code\]](https://github.com/mmichaelzhang/CAT)
 * DCT-GAN: Dilated Convolutional Transformer-based GAN for Time Series Anomaly Detection, in *TKDE* 2022. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9626552)
 * Concept Drift Adaptation for Time Series Anomaly Detection via Transformer, in *Neural Processing Letters* 2022. [\[paper\]](https://link.springer.com/article/10.1007/s11063-022-11015-0)
