@@ -42,10 +42,19 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 ## Application Domains of Time Series Transformers
 
+
+[\[official code\]]()
 ### Transformers in Forecasting
 #### Time Series Forecasting
-* CARD: Channel Aligned Robust Blend Transformer for Time Series Forecasting, in *ICLR* 2024. [\[paper\]](https://openreview.net/forum?id=MJksrOhurE)
-* Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting, in *ICLR* 2024. [\[paper\]](https://openreview.net/forum?id=lJkOCMP2aW)
+* CARD: Channel Aligned Robust Blend Transformer for Time Series Forecasting, in *ICLR* 2024. [\[paper\]](https://openreview.net/forum?id=MJksrOhurE) [\[official code\]](https://github.com/wxie9/card)
+* Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting, in *ICLR* 2024. [\[paper\]](https://openreview.net/forum?id=lJkOCMP2aW) [\[official code\]](https://github.com/decisionintelligence/pathformer)
+* GAFormer: Enhancing Timeseries Transformers Through Group-Aware Embeddings, in *ICLR* 2024. [\[paper\]](https://openreview.net/forum?id=c56TWtYp0W) 
+* Transformer-Modulated Diffusion Models for Probabilistic Multivariate Time Series Forecasting, in *ICLR* 2024. [\[paper\]](https://openreview.net/forum?id=qae04YACHs)
+* iTransformer: Inverted Transformers Are Effective for Time Series Forecasting, in *ICLR* 2024. [\[paper\]](https://openreview.net/forum?id=JePfAI8fah)
+* Considering Nonstationary within Multivariate Time Series with Variational Hierarchical Transformer for Forecasting, in *AAAI* 2024. [\[paper\]]()
+* Latent Diffusion Transformer for Probabilistic Time Series Forecasting, in *AAAI* 2024. [\[paper\]]()
+* BasisFormer: Attention-based Time Series Forecasting with Learnable and Interpretable Basis, in *NeurIPS* 2023.  [\[paper\]](https://neurips.cc/virtual/2023/poster/69976)
+* ContiFormer: Continuous-Time Transformer for Irregular Time Series Modeling, in *NeurIPS* 2023.  [\[paper\]](https://neurips.cc/virtual/2023/poster/71304)
 * A Time Series is Worth 64 Words: Long-term Forecasting with Transformers, in *ICLR* 2023. [\[paper\]](https://openreview.net/forum?id=Jbdc0vTOcol) [\[code\]](https://github.com/yuqinie98/PatchTST)
 * Crossformer: Transformer Utilizing Cross-Dimension Dependency for Multivariate Time Series Forecasting, in *ICLR* 2023. [\[paper\]](https://openreview.net/forum?id=vSVLM2j9eie)
 * Scaleformer: Iterative Multi-scale Refining Transformers for Time Series Forecasting, in *ICLR* 2023. [\[paper\]](https://openreview.net/forum?id=sCrnllCtjoE)
@@ -98,6 +107,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 * Variational Transformer-based anomaly detection approach for multivariate time series, in *Measurement* 2022. [\[paper\]](https://www.sciencedirect.com/science/article/abs/pii/S0263224122000914)
 
 ### Transformers in Classification
+* Time Series as Images: Vision Transformer for Irregularly Sampled Time Series, in *NeurIPS* 2023. [\[paper\]](https://neurips.cc/virtual/2023/poster/71219)
 * TrajFormer: Efficient Trajectory Classification with Transformers, in *CIKM* 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557481)
 * TARNet : Task-Aware Reconstruction for Time-Series Transformer, in *KDD* 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539329) [\[official code\]](https://github.com/ranakroychowdhury/TARNet)
 * A transformer-based framework for multivariate time series representation learning, in *KDD* 2021. [\[paper\]](https://arxiv.org/abs/2010.02803) [\[official code\]](https://github.com/gzerveas/mvts_transformer)
@@ -110,7 +120,9 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 
 ## Time Series Related Survey
+* What Can Large Language Models Tell Us about Time Series Analysis, in *arXiv* 2024. [\[paper\]](https://arxiv.org/abs/2402.02713)
 * Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2310.10196) [\[Website\]](https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM)
+* Deep Learning for Multivariate Time Series Imputation: A Survey, in *arXiv* 2024. [\[paper\]](https://arxiv.org/abs/2402.04059) [\[Website\]](https://github.com/wenjiedu/awesome_imputation)
 * Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2306.10125) [\[Website\]](https://github.com/qingsongedu/Awesome-SSL4TS)
 * A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2307.03759) [\[Website\]](https://github.com/KimMeen/Awesome-GNN4TS)
 * Time series data augmentation for deep learning: a survey, in *IJCAI* 2021. [\[paper\]](https://arxiv.org/abs/2002.12478)
