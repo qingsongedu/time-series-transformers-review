@@ -47,7 +47,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 ### Transformers in Forecasting
 #### Time Series Forecasting
 * CARD: Channel Aligned Robust Blend Transformer for Time Series Forecasting, in *ICLR* 2024. [\[paper\]](https://openreview.net/forum?id=MJksrOhurE) [\[official code\]](https://github.com/wxie9/card)
-* Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting, in *ICLR* 2024. [\[paper\]](https://openreview.net/forum?id=lJkOCMP2aW) [\[official code\]](https://github.com/decisionintelligence/pathformer)
+* Pathformer: Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting, in *ICLR* 2024. [\[paper\]](https://openreview.net/forum?id=lJkOCMP2aW) [\[official code\]](https://github.com/decisionintelligence/pathformer)
 * GAFormer: Enhancing Timeseries Transformers Through Group-Aware Embeddings, in *ICLR* 2024. [\[paper\]](https://openreview.net/forum?id=c56TWtYp0W) 
 * Transformer-Modulated Diffusion Models for Probabilistic Multivariate Time Series Forecasting, in *ICLR* 2024. [\[paper\]](https://openreview.net/forum?id=qae04YACHs)
 * iTransformer: Inverted Transformers Are Effective for Time Series Forecasting, in *ICLR* 2024. [\[paper\]](https://openreview.net/forum?id=JePfAI8fah)
