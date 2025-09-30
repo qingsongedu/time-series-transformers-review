@@ -46,6 +46,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 [\[official code\]]()
 ### Transformers in Forecasting
 #### Time Series Forecasting
+* LETS Forecast: Learning Embedology for Time Series Forecasting, in *ICML* 2025. [\[paper\]](https://openreview.net/forum?id=LLk1qYQatJ) [\[official code\]](https://abrarmajeedi.github.io/deep_edm/)
 * CARD: Channel Aligned Robust Blend Transformer for Time Series Forecasting, in *ICLR* 2024. [\[paper\]](https://openreview.net/forum?id=MJksrOhurE) [\[official code\]](https://github.com/wxie9/card)
 * Pathformer: Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting, in *ICLR* 2024. [\[paper\]](https://openreview.net/forum?id=lJkOCMP2aW) [\[official code\]](https://github.com/decisionintelligence/pathformer)
 * GAFormer: Enhancing Timeseries Transformers Through Group-Aware Embeddings, in *ICLR* 2024. [\[paper\]](https://openreview.net/forum?id=c56TWtYp0W) 
